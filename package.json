@@ -1,0 +1,19 @@
+{
+  "name": "microblog",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "3.4.7",
+    "jade": "*",
+    "mongodb":">=2.0.42",
+    "connect-mongo": ">=0.8.2",
+    "connect-flash": ">=0.1.1",
+    "connect": ">=1.8.5"
+  }
+}

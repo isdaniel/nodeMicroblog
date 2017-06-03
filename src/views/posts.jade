@@ -1,0 +1,17 @@
+- posts.forEach(function(post, index) { 
+  if (index % 3 == 0)
+    .row.col-md-4
+      h2
+        a(href='/u/' + post.user)= post.user
+      h4
+        = post.post
+      p
+        small
+          = post.time
+
+  if (index % 3 == 2)
+  
+      
+  if (index % 3 != 0 )
+  
+-})
