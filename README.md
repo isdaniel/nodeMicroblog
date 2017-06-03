@@ -1,4 +1,4 @@
-使用Express + MongoDB 製作一個簡單blog
+使用Express + MongoDB 製作一個簡單blog <br />
 
 使用前說明
 請先安裝MongoDB
@@ -16,7 +16,7 @@
 2.	Npm start
 
 執行成功會出現
-　　Express server listening on port 3001
-　　
-即可以連接 
-http:localhost:3001 執行簡單部落格瞜
+* Express server listening on port 3001
+
+<br />
+即可以連接 http://localhost:3001 執行簡單部落格瞜
